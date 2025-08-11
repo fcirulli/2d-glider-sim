@@ -86,6 +86,11 @@ Airfoil presets
 | Eppler387  | 0.80 | 0.021 |      610.8|     18.1 |
 | NACA2412   | 0.90 | 0.018 |      625.3|     19.5 |
 
+![Trajectories](plots/trajectories.png)  
+*Height vs. distance (100 m release, event stops at touchdown)*
+
+![Range by Airfoil](plots/range_by_airfoil.png)  
+*Computed ground range for sample airfoils*
 
 We see that from a 100m release height, higher lift-to-drag ratios 
 (ex. NACA2412) increase range by around 35% vs. a flat plate. Note 
