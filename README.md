@@ -86,13 +86,13 @@ Airfoil presets
 | Eppler387  | 0.80 | 0.021 |      610.8|     18.1 |
 | NACA2412   | 0.90 | 0.018 |      625.3|     19.5 |
 
-<h3>Results</h3>
-<p>
-  <img src="plots/trajectories.png" width="720" alt="Trajectories">
-</p>
-<p>
-  <img src="plots/range_by_airfoil.png" width="720" alt="Range by Airfoil">
-</p>
+<<h3>Results</h3>
+<table>
+  <tr>
+    <td><img src="plots/trajectories.png" width="420" alt="Trajectories"></td>
+    <td><img src="plots/range_by_airfoil.png" width="420" alt="Range by Airfoil"></td>
+  </tr>
+</table>
 
 We see that from a 100m release height, higher lift-to-drag ratios 
 (ex. NACA2412) increase range by around 35% vs. a flat plate. Note 
@@ -101,5 +101,6 @@ speed decays during the descent.
 
 
 License: MIT
+
 
 
