@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info description="2D MATLAB glider simulator (state [vx, vy, x, h]), uses L = (1/2)*ρ*(v^2)*A*CL, D = (1/2)*ρ*(v^2)*A*CD.&#10;&#10;Uses ode45 + event to stop at h = 0. Sweeps multiple airfoils and reports range/time&#10;&#10;Figures saved to plots/ , CSV summary to results/&#10;&#10;Assumes constant angle of attack, sea-level ρ, no wind."/>
