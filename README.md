@@ -86,7 +86,6 @@ Airfoil presets
 | Eppler387  | 0.80 | 0.021 |      610.8|     18.1 |
 | NACA2412   | 0.90 | 0.018 |      625.3|     19.5 |
 
-<<h3>Results</h3>
 <table>
   <tr>
     <td><img src="plots/trajectories.png" width="420" alt="Trajectories"></td>
@@ -101,6 +100,7 @@ speed decays during the descent.
 
 
 License: MIT
+
 
 
 
